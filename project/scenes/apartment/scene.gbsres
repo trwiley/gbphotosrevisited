@@ -1,0 +1,23 @@
+{
+  "_resourceType": "scene",
+  "id": "d369e549-d399-4657-aa0f-91c1f5c638fe",
+  "_index": 0,
+  "name": "apartment",
+  "backgroundId": "5fda6e58-abd0-4298-8923-80205002dec6",
+  "tilesetId": "",
+  "width": 20,
+  "height": 18,
+  "type": "LOGO",
+  "colorModeOverride": "none",
+  "paletteIds": [],
+  "spritePaletteIds": [],
+  "collisions": "",
+  "autoFadeSpeed": 1,
+  "symbol": "scene_1",
+  "x": 143,
+  "y": 180,
+  "script": [],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": []
+}

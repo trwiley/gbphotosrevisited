@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "5fda6e58-abd0-4298-8923-80205002dec6",
+  "name": "apartment_gbclimits",
+  "symbol": "bg_apartment_gbclimits",
+  "tileColors": "",
+  "filename": "apartment_gbclimits.png",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "autoColor": true
+}
