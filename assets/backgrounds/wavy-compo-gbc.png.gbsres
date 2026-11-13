@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "da0e3adb-542d-48ec-bb57-f2fd640b09f0",
+  "name": "wavy-compo-gbc",
+  "symbol": "bg_wavy_compo_gbc",
+  "tileColors": "",
+  "filename": "wavy-compo-gbc.png",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "autoColor": true
+}

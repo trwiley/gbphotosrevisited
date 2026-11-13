@@ -1,0 +1,23 @@
+{
+  "_resourceType": "scene",
+  "id": "e3b93a44-7656-49c5-89fd-8ee6ca272115",
+  "_index": 1,
+  "name": "wavy",
+  "backgroundId": "da0e3adb-542d-48ec-bb57-f2fd640b09f0",
+  "tilesetId": "",
+  "width": 20,
+  "height": 18,
+  "type": "LOGO",
+  "colorModeOverride": "none",
+  "paletteIds": [],
+  "spritePaletteIds": [],
+  "collisions": "",
+  "autoFadeSpeed": 1,
+  "symbol": "scene_2",
+  "x": 368,
+  "y": 176,
+  "script": [],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": []
+}
