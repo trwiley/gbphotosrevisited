@@ -1,0 +1,12 @@
+build/
+cache/
+
+*.bak
+*.sav
+*.icloud
+.DS_Store
+._*
+Thumbs.db
+Desktop.ini
+
+user_settings.gbsres
