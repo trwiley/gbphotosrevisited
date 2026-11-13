@@ -21,7 +21,7 @@
       "command": "EVENT_SET_INPUT_SCRIPT",
       "args": {
         "input": [
-          "b"
+          "right"
         ],
         "override": true,
         "__scriptTabs": "press"
